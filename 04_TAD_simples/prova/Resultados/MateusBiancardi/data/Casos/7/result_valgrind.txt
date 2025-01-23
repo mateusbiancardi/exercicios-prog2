@@ -1,19 +1,19 @@
-==32961== Memcheck, a memory error detector
-==32961== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
-==32961== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
-==32961== Command: Resultados/MateusBiancardi/data/prog Resultados/MateusBiancardi/data/Casos/7
-==32961== Parent PID: 32960
-==32961== 
-==32961== Conditional jump or move depends on uninitialised value(s)
-==32961==    at 0x109F6E: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/prova/Resultados/MateusBiancardi/data/prog)
-==32961== 
-==32961== 
-==32961== HEAP SUMMARY:
-==32961==     in use at exit: 0 bytes in 0 blocks
-==32961==   total heap usage: 1 allocs, 1 frees, 4,096 bytes allocated
-==32961== 
-==32961== All heap blocks were freed -- no leaks are possible
-==32961== 
-==32961== Use --track-origins=yes to see where uninitialised values come from
-==32961== For lists of detected and suppressed errors, rerun with: -s
-==32961== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
+==52313== Memcheck, a memory error detector
+==52313== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==52313== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==52313== Command: Resultados/MateusBiancardi/data/prog Resultados/MateusBiancardi/data/Casos/7
+==52313== Parent PID: 52312
+==52313== 
+==52313== Conditional jump or move depends on uninitialised value(s)
+==52313==    at 0x109F63: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/prova/Resultados/MateusBiancardi/data/prog)
+==52313== 
+==52313== 
+==52313== HEAP SUMMARY:
+==52313==     in use at exit: 0 bytes in 0 blocks
+==52313==   total heap usage: 1 allocs, 1 frees, 4,096 bytes allocated
+==52313== 
+==52313== All heap blocks were freed -- no leaks are possible
+==52313== 
+==52313== Use --track-origins=yes to see where uninitialised values come from
+==52313== For lists of detected and suppressed errors, rerun with: -s
+==52313== ERROR SUMMARY: 1 errors from 1 contexts (suppressed: 0 from 0)
