@@ -1,0 +1,154 @@
+	---
+	---
+	---
+Jogador 1
+Digite uma posicao (x e y): 	X--
+	---
+	---
+	X--
+	---
+	---
+Jogador 2
+Digite uma posicao (x e y): 	X--
+	-0-
+	---
+	X--
+	-0-
+	---
+Jogador 1
+Digite uma posicao (x e y): 	XX-
+	-0-
+	---
+	XX-
+	-0-
+	---
+Jogador 2
+Digite uma posicao (x e y): 	XX0
+	-0-
+	---
+	XX0
+	-0-
+	---
+Jogador 1
+Digite uma posicao (x e y): 	XXX
+	-0-
+	---
+JOGADOR 1 Venceu!
+Jogar novamente? (s,n)
+	---
+	---
+	---
+Jogador 1
+Digite uma posicao (x e y): 	X--
+	---
+	---
+	X--
+	---
+	---
+Jogador 2
+Digite uma posicao (x e y): 	X0-
+	---
+	---
+	X0-
+	---
+	---
+Jogador 1
+Digite uma posicao (x e y): 	X0X
+	---
+	---
+	X0X
+	---
+	---
+Jogador 2
+Digite uma posicao (x e y): 	X0X
+	-0-
+	---
+	X0X
+	-0-
+	---
+Jogador 1
+Digite uma posicao (x e y): 	X0X
+	X0-
+	---
+	X0X
+	X0-
+	---
+Jogador 2
+Digite uma posicao (x e y): 	X0X
+	X00
+	---
+	X0X
+	X00
+	---
+Jogador 1
+Digite uma posicao (x e y): 	X0X
+	X00
+	--X
+	X0X
+	X00
+	--X
+Jogador 2
+Digite uma posicao (x e y): 	X0X
+	X00
+	0-X
+	X0X
+	X00
+	0-X
+Jogador 1
+Digite uma posicao (x e y): 	X0X
+	X00
+	0-X
+	X0X
+	X00
+	0-X
+Jogador 2
+Digite uma posicao (x e y): 	X0X
+	X00
+	0-X
+Jogador 2
+Digite uma posicao (x e y): 	X0X
+	X00
+	00X
+Sem vencedor!
+Jogar novamente? (s,n)
+	---
+	---
+	---
+Jogador 1
+Digite uma posicao (x e y): 	X--
+	---
+	---
+	X--
+	---
+	---
+Jogador 2
+Digite uma posicao (x e y): 	X0-
+	---
+	---
+	X0-
+	---
+	---
+Jogador 1
+Digite uma posicao (x e y): 	X0-
+	---
+	---
+Jogador 1
+Digite uma posicao (x e y): 	X0-
+	X--
+	---
+	X0-
+	X--
+	---
+Jogador 2
+Digite uma posicao (x e y): 	X0-
+	X0-
+	---
+	X0-
+	X0-
+	---
+Jogador 1
+Digite uma posicao (x e y): 	X0-
+	X0-
+	X--
+JOGADOR 1 Venceu!
+Jogar novamente? (s,n)

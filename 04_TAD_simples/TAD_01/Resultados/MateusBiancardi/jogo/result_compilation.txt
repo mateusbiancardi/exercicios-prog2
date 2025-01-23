@@ -1,0 +1,7 @@
+jogo.c: In function ‘CriaJogo’:
+jogo.c:7:10: warning: ‘jogo’ is used uninitialized [-Wuninitialized]
+    7 |   return jogo;
+      |          ^~~~
+jogo.c:6:9: note: ‘jogo’ declared here
+    6 |   tJogo jogo;
+      |         ^~~~

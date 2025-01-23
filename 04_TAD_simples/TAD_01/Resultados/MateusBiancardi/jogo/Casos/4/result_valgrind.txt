@@ -1,0 +1,14 @@
+==15140== Memcheck, a memory error detector
+==15140== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==15140== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==15140== Command: Resultados/MateusBiancardi/jogo/prog Resultados/MateusBiancardi/jogo/Casos/4
+==15140== Parent PID: 15139
+==15140== 
+==15140== Conditional jump or move depends on uninitialised value(s)
+==15140==    at 0x109AF9: ContinuaJogo (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogo/prog)
+==15140==    by 0x109B83: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogo/prog)
+==15140== 
+==15140== Conditional jump or move depends on uninitialised value(s)
+==15140==    at 0x109B08: ContinuaJogo (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogo/prog)
+==15140==    by 0x109B83: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogo/prog)
+==15140== 

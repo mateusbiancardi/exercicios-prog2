@@ -1,0 +1,382 @@
+- Arquivo de configuração encontrado!
+ - Arquivos header necessários do professor existem na pasta Includes
+ - Arquivos objetos necessários do professor existem na pasta Gabarito-obj.
+
+#######################################
+ALUNO: MateusBiancardi
+#######################################
+
+CRIANDO O DIRETÓRIO DE RESULTADO PARA MateusBiancardi:
+ - Diretório Resultados/MateusBiancardi criado com sucesso!
+ - Diretório Resultados/MateusBiancardi/main criado com sucesso!
+ - Diretório Resultados/MateusBiancardi/completo criado com sucesso!
+ - Diretório Resultados/MateusBiancardi/data criado com sucesso!
+ - Diretório Resultados/MateusBiancardi/area criado com sucesso!
+ - Diretório Resultados/MateusBiancardi/morador criado com sucesso!
+ - Diretório Resultados/MateusBiancardi/reserva criado com sucesso!
+ - Arquivos criados: ok!
+
+CHECKANDO OS ARQUIVOS DO ALUNO:
+ - Arquivo esperado 'Respostas/MateusBiancardi/area.c' encontrado!
+ - Arquivo esperado 'Respostas/MateusBiancardi/area.h' encontrado!
+ - Arquivo esperado 'Respostas/MateusBiancardi/data.c' encontrado!
+ - Arquivo esperado 'Respostas/MateusBiancardi/data.h' encontrado!
+ - Arquivo esperado 'Respostas/MateusBiancardi/main.c' encontrado!
+ - Arquivo esperado 'Respostas/MateusBiancardi/morador.c' encontrado!
+ - Arquivo esperado 'Respostas/MateusBiancardi/morador.h' encontrado!
+ - Arquivo esperado 'Respostas/MateusBiancardi/reserva.c' encontrado!
+ - Arquivo esperado 'Respostas/MateusBiancardi/reserva.h' encontrado!
+ - Arquivos esperados enviados: Ok!
+
+COPIANDO OS ARQUIVOS PARA A PASTA DE RESULTADO DO ALUNO:
+ - Pasta main:
+ - Copiando os Casos de teste para a pasta Resultados/MateusBiancardi/main
+ - Copiando os Includes/area.h Includes/data.h Includes/morador.h Includes/reserva.h do professor para a pasta Resultados/MateusBiancardi/main
+ - Copiando os Includes/*.o do professor para a pasta Resultados/MateusBiancardi/main
+ - Removendo o main.o do professor da pasta Resultados/MateusBiancardi/main
+ - Copiando o Respostas/MateusBiancardi/main.c do aluno para a pasta Resultados/MateusBiancardi/main
+ - Pasta completo:
+ - Copiando os Casos de teste para a pasta Resultados/MateusBiancardi/completo
+ - Copiando os Respostas/MateusBiancardi/area.c do aluno para a pasta Resultados/MateusBiancardi/completo
+ - Copiando os Respostas/MateusBiancardi/area.h do aluno para a pasta Resultados/MateusBiancardi/completo
+ - Copiando os Respostas/MateusBiancardi/data.c do aluno para a pasta Resultados/MateusBiancardi/completo
+ - Copiando os Respostas/MateusBiancardi/data.h do aluno para a pasta Resultados/MateusBiancardi/completo
+ - Copiando os Respostas/MateusBiancardi/main.c do aluno para a pasta Resultados/MateusBiancardi/completo
+ - Copiando os Respostas/MateusBiancardi/morador.c do aluno para a pasta Resultados/MateusBiancardi/completo
+ - Copiando os Respostas/MateusBiancardi/morador.h do aluno para a pasta Resultados/MateusBiancardi/completo
+ - Copiando os Respostas/MateusBiancardi/reserva.c do aluno para a pasta Resultados/MateusBiancardi/completo
+ - Copiando os Respostas/MateusBiancardi/reserva.h do aluno para a pasta Resultados/MateusBiancardi/completo
+ - Pasta data:
+ - Copiando os Casos de teste para a pasta Resultados/MateusBiancardi/data
+ - Copiando os Includes/area.h Includes/data.h Includes/morador.h Includes/reserva.h do professor para a pasta Resultados/MateusBiancardi/data
+ - Copiando os Includes/*.o do professor para a pasta Resultados/MateusBiancardi/data
+ - Removendo o data.o do professor da pasta Resultados/MateusBiancardi/data
+ - Copiando o Respostas/MateusBiancardi/data.c do aluno para a pasta Resultados/MateusBiancardi/data
+ - Pasta area:
+ - Copiando os Casos de teste para a pasta Resultados/MateusBiancardi/area
+ - Copiando os Includes/area.h Includes/data.h Includes/morador.h Includes/reserva.h do professor para a pasta Resultados/MateusBiancardi/area
+ - Copiando os Includes/*.o do professor para a pasta Resultados/MateusBiancardi/area
+ - Removendo o area.o do professor da pasta Resultados/MateusBiancardi/area
+ - Copiando o Respostas/MateusBiancardi/area.c do aluno para a pasta Resultados/MateusBiancardi/area
+ - Pasta morador:
+ - Copiando os Casos de teste para a pasta Resultados/MateusBiancardi/morador
+ - Copiando os Includes/area.h Includes/data.h Includes/morador.h Includes/reserva.h do professor para a pasta Resultados/MateusBiancardi/morador
+ - Copiando os Includes/*.o do professor para a pasta Resultados/MateusBiancardi/morador
+ - Removendo o morador.o do professor da pasta Resultados/MateusBiancardi/morador
+ - Copiando o Respostas/MateusBiancardi/morador.c do aluno para a pasta Resultados/MateusBiancardi/morador
+ - Pasta reserva:
+ - Copiando os Casos de teste para a pasta Resultados/MateusBiancardi/reserva
+ - Copiando os Includes/area.h Includes/data.h Includes/morador.h Includes/reserva.h do professor para a pasta Resultados/MateusBiancardi/reserva
+ - Copiando os Includes/*.o do professor para a pasta Resultados/MateusBiancardi/reserva
+ - Removendo o reserva.o do professor da pasta Resultados/MateusBiancardi/reserva
+ - Copiando o Respostas/MateusBiancardi/reserva.c do aluno para a pasta Resultados/MateusBiancardi/reserva
+ - Copiando Arquivos Extras do Aluno:
+ - Arquivos copiados: ok!
+
+COMPILANDO OS ARQUIVOS NA PASTA DE RESULTADO DO ALUNO:
+ - Compilação dos arquivos do aluno na pasta main ok!
+ - Arquivo de output gerado: Resultados/MateusBiancardi/main/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta completo ok!
+ - Arquivo de output gerado: Resultados/MateusBiancardi/completo/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta data ok!
+ - Arquivo de output gerado: Resultados/MateusBiancardi/data/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta area ok!
+ - Arquivo de output gerado: Resultados/MateusBiancardi/area/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta morador ok!
+ - Arquivo de output gerado: Resultados/MateusBiancardi/morador/result_compilation.txt
+ - Compilação dos arquivos do aluno na pasta reserva ok!
+ - Arquivo de output gerado: Resultados/MateusBiancardi/reserva/result_compilation.txt
+ - Arquivos Compilados: ok!
+
+LINKANDO OS ARQUIVOS COMPILADOS:
+ - Pasta main:
+ - Gerando o binário prog linkando com o(s) arquivo(s) main/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/MateusBiancardi/main/result_linking.txt
+ - Pasta completo:
+ - Gerando o binário prog linkando com o(s) arquivo(s) completo/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/MateusBiancardi/completo/result_linking.txt
+ - Pasta data:
+ - Gerando o binário prog linkando com o(s) arquivo(s) data/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/MateusBiancardi/data/result_linking.txt
+ - Pasta area:
+ - Gerando o binário prog linkando com o(s) arquivo(s) area/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/MateusBiancardi/area/result_linking.txt
+ - Pasta morador:
+ - Gerando o binário prog linkando com o(s) arquivo(s) morador/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/MateusBiancardi/morador/result_linking.txt
+ - Pasta reserva:
+ - Gerando o binário prog linkando com o(s) arquivo(s) reserva/*.o
+ - Arquivos Linkados: Ok! Binário prog gerado com sucesso.
+ - Arquivo de output gerado: Resultados/MateusBiancardi/reserva/result_linking.txt
+
+EXECUTANDO O VALGRIND EM CADA CASO:
+ - Pasta main / Caso 1:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/main/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 2:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/main/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 3:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/main/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 4:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/main/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 5:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/main/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 6:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/main/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta main / Caso 7:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/main/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta main (máximo 4.00) - 0 de 70 - 0% de 4.00: 0.
+ -----
+ - Pasta completo / Caso 1:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/completo/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 2:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/completo/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 3:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/completo/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 4:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/completo/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 5:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/completo/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 6:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/completo/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta completo / Caso 7:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/completo/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 0, frees: 0, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta completo (máximo 0.0) - 0 de 70 - 0% de 0.0: 0.
+ -----
+ - Pasta data / Caso 1:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/data/Casos/1/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta data / Caso 2:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/data/Casos/2/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 667 | Desconto do valgrind 0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta data / Caso 3:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/data/Casos/3/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta data / Caso 4:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/data/Casos/4/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta data / Caso 5:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/data/Casos/5/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta data / Caso 6:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/data/Casos/6/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta data / Caso 7:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/data/Casos/7/result_valgrind.txt.
+ - Valgrind: Incorreto! allocs: 1, frees: 1, errors: 1 | Desconto do valgrind 0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta data (máximo 1.00) - 0 de 70 - 0% de 1.00: 0.
+ -----
+ - Pasta area / Caso 1:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/area/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta area / Caso 2:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/area/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta area / Caso 3:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/area/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta area / Caso 4:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/area/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta area / Caso 5:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/area/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta area / Caso 6:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/area/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Pasta area / Caso 7:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/area/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Ok! Peso: 10
+ - Nota para o Caso (soma dos pesos): 10.0 (soma total) - 0% (desconto do valgrind) = 10.00 de 10 pontos.
+ - Nota para a pasta area (máximo 1.00) - 70.00 de 70 - 100.00% de 1.00: 1.00.
+ -----
+ - Pasta morador / Caso 1:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/morador/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta morador / Caso 2:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/morador/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta morador / Caso 3:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/morador/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta morador / Caso 4:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/morador/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta morador / Caso 5:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/morador/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta morador / Caso 6:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/morador/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta morador / Caso 7:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/morador/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta morador (máximo 1.00) - 0 de 70 - 0% de 1.00: 0.
+ -----
+ - Pasta reserva / Caso 1:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/reserva/Casos/1/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta reserva / Caso 2:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/reserva/Casos/2/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta reserva / Caso 3:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/reserva/Casos/3/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta reserva / Caso 4:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/reserva/Casos/4/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta reserva / Caso 5:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/reserva/Casos/5/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta reserva / Caso 6:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/reserva/Casos/6/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Pasta reserva / Caso 7:
+ - Arquivo de output gerado: Resultados/MateusBiancardi/reserva/Casos/7/result_valgrind.txt.
+ - Valgrind: Ok! allocs: 2, frees: 2, errors: 0 | Desconto do valgrind: 0.0%
+ - Resultado para o saida.txt: Incorreto! Peso: 0.0
+ - Nota para o Caso (soma dos pesos): 0 (soma total) - 0% (desconto do valgrind) = 0 de 10 pontos.
+ - Nota para a pasta reserva (máximo 3.00) - 0 de 70 - 0% de 3.00: 0.
+ -----
+
+#######################################
+RESULTADOS FINAIS
+#######################################
+
+----------------------------------------------------------------------------
+Aluno: MateusBiancardi
+ - Arquivos Esperados Corretos: 9 de 9
+ - Pastas Compiladas Corretamente: 6 de 6 
+ - Pastas Linkadas Corretamente: 6 de 6
+ - Teste main
+ - Resultados corretos: 0 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de MateusBiancardi para o teste main: 0
+ - Teste completo
+ - Resultados corretos: 0 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de MateusBiancardi para o teste completo: 0
+ - Teste data
+ - Resultados corretos: 0 de 7
+ - Valgrinds corretos: 0 de 7
+ - Nota de MateusBiancardi para o teste data: 0
+ - Teste area
+ - Resultados corretos: 7 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de MateusBiancardi para o teste area: 1.00
+ - Teste morador
+ - Resultados corretos: 0 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de MateusBiancardi para o teste morador: 0
+ - Teste reserva
+ - Resultados corretos: 0 de 7
+ - Valgrinds corretos: 7 de 7
+ - Nota de MateusBiancardi para o teste reserva: 0
+ - Nota de MateusBiancardi: 0+(0)+(0)+(1.00)+(0)+(0)+(0)
+ - Nota de MateusBiancardi: 1.00
+
+----------------------------------------------------------------------------
+
+Arquivo CSV Resultado.csv com os resultados finais foi gerado na pasta raíz!
+
+
+

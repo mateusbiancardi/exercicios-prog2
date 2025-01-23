@@ -1,0 +1,10 @@
+/usr/bin/ld: Resultados/MateusBiancardi/completo/jogador.o: in function `JogaJogador':
+jogador.c:(.text+0x54): undefined reference to `ImprimeTabuleiro'
+/usr/bin/ld: jogador.c:(.text+0xb7): undefined reference to `EstaLivrePosicaoTabuleiro'
+/usr/bin/ld: jogador.c:(.text+0xc9): undefined reference to `EhPosicaoValidaTabuleiro'
+/usr/bin/ld: jogador.c:(.text+0xf3): undefined reference to `MarcaPosicaoTabuleiro'
+/usr/bin/ld: Resultados/MateusBiancardi/completo/jogo.o: in function `ComecaJogo':
+jogo.c:(.text+0x60): undefined reference to `CriaTabuleiro'
+/usr/bin/ld: Resultados/MateusBiancardi/completo/jogo.o: in function `AcabouJogo':
+jogo.c:(.text+0x1d4): undefined reference to `TemPosicaoLivreTabuleiro'
+collect2: error: ld returned 1 exit status

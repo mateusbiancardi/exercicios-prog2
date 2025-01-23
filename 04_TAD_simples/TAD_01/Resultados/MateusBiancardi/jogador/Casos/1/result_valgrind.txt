@@ -1,0 +1,48 @@
+==13400== Memcheck, a memory error detector
+==13400== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==13400== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==13400== Command: Resultados/MateusBiancardi/jogador/prog Resultados/MateusBiancardi/jogador/Casos/1
+==13400== Parent PID: 13399
+==13400== 
+==13400== Use of uninitialised value of size 8
+==13400==    at 0x109AFF: EstaLivrePosicaoTabuleiro (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==    by 0x109340: JogaJogador (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==    by 0x1095A3: ComecaJogo (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==    by 0x109823: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400== 
+==13400== Invalid read of size 1
+==13400==    at 0x109AFF: EstaLivrePosicaoTabuleiro (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==    by 0x109340: JogaJogador (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==    by 0x1095A3: ComecaJogo (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==    by 0x109823: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==  Address 0x1fff31bfb5 is not stack'd, malloc'd or (recently) free'd
+==13400== 
+==13400== 
+==13400== Process terminating with default action of signal 11 (SIGSEGV)
+==13400==  Access not within mapped region at address 0x1FFF31BFB5
+==13400==    at 0x109AFF: EstaLivrePosicaoTabuleiro (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==    by 0x109340: JogaJogador (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==    by 0x1095A3: ComecaJogo (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==    by 0x109823: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/04_TAD_simples/TAD_01/Resultados/MateusBiancardi/jogador/prog)
+==13400==  If you believe this happened as a result of a stack
+==13400==  overflow in your program's main thread (unlikely but
+==13400==  possible), you can try to increase the size of the
+==13400==  main thread stack using the --main-stacksize= flag.
+==13400==  The main thread stack size used in this run was 8388608.
+==13400== 
+==13400== HEAP SUMMARY:
+==13400==     in use at exit: 8,192 bytes in 2 blocks
+==13400==   total heap usage: 2 allocs, 0 frees, 8,192 bytes allocated
+==13400== 
+==13400== LEAK SUMMARY:
+==13400==    definitely lost: 0 bytes in 0 blocks
+==13400==    indirectly lost: 0 bytes in 0 blocks
+==13400==      possibly lost: 0 bytes in 0 blocks
+==13400==    still reachable: 8,192 bytes in 2 blocks
+==13400==         suppressed: 0 bytes in 0 blocks
+==13400== Reachable blocks (those to which a pointer was found) are not shown.
+==13400== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==13400== 
+==13400== Use --track-origins=yes to see where uninitialised values come from
+==13400== For lists of detected and suppressed errors, rerun with: -s
+==13400== ERROR SUMMARY: 2 errors from 2 contexts (suppressed: 0 from 0)

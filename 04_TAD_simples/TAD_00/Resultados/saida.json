@@ -1,0 +1,12 @@
+{
+	"alunos": [
+		{
+			"Nome":"MateusBiancardi",
+			"Nota":3.33
+		},
+		{
+			"Nome":"MateusBiancardi/build",
+			"Nota":0
+		}
+	]
+}
