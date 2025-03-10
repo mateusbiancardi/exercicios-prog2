@@ -1,11 +1,13 @@
 Arquivos
-	saida.txt=10
+	saida.txt=10.0
 Valgrind
 	desconto=0.5
 Validações
-	main=1.66
-	completo=1.66
-	agencia=1.67
-	vector=1.67
-	conta=1.67
-	banco=1.67
+	main=7.50
+	completo=0.0
+	fila=1.00
+	ticket=1.00
+    software=0.50
+
+LimiteTempo=25
+MainAgrupada

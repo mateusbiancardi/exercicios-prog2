@@ -1,0 +1,90 @@
+==1927== Memcheck, a memory error detector
+==1927== Copyright (C) 2002-2022, and GNU GPL'd, by Julian Seward et al.
+==1927== Using Valgrind-3.22.0 and LibVEX; rerun with -h for copyright info
+==1927== Command: Resultados/Mateus/aluno/prog Resultados/Mateus/aluno/Casos/3
+==1927== Parent PID: 1926
+==1927== 
+==1927== Conditional jump or move depends on uninitialised value(s)
+==1927==    at 0x484F37F: strcpy (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1927==    by 0x109255: CriaAluno (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x1093CA: LeAlunos (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x109780: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927== 
+==1927== Conditional jump or move depends on uninitialised value(s)
+==1927==    at 0x484F37F: strcpy (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1927==    by 0x10926F: CriaAluno (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x1093CA: LeAlunos (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x109780: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927== 
+==1927== Conditional jump or move depends on uninitialised value(s)
+==1927==    at 0x484F37F: strcpy (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1927==    by 0x109289: CriaAluno (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x1093CA: LeAlunos (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x109780: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927== 
+==1927== Conditional jump or move depends on uninitialised value(s)
+==1927==    at 0x484F397: strcpy (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1927==    by 0x109289: CriaAluno (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x1093CA: LeAlunos (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x109780: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927== 
+==1927== Syscall param write(buf) points to uninitialised byte(s)
+==1927==    at 0x497B574: write (write.c:26)
+==1927==    by 0x48F2974: _IO_file_write@@GLIBC_2.2.5 (fileops.c:1181)
+==1927==    by 0x48F1570: new_do_write (fileops.c:449)
+==1927==    by 0x48F1570: _IO_do_write@@GLIBC_2.2.5 (fileops.c:426)
+==1927==    by 0x48F0A1F: _IO_file_close_it@@GLIBC_2.2.5 (fileops.c:135)
+==1927==    by 0x48E43A0: fclose@@GLIBC_2.2.5 (iofclose.c:53)
+==1927==    by 0x10951A: SalvaAlunosBinario (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x109799: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==  Address 0x4a76d7c is 204 bytes inside a block of size 4,096 alloc'd
+==1927==    at 0x4846828: malloc (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1927==    by 0x48E41B4: _IO_file_doallocate (filedoalloc.c:101)
+==1927==    by 0x48F4523: _IO_doallocbuf (genops.c:347)
+==1927==    by 0x48F1F8F: _IO_file_overflow@@GLIBC_2.2.5 (fileops.c:745)
+==1927==    by 0x48F2AAE: _IO_new_file_xsputn (fileops.c:1244)
+==1927==    by 0x48F2AAE: _IO_file_xsputn@@GLIBC_2.2.5 (fileops.c:1197)
+==1927==    by 0x48E5A11: fwrite (iofwrite.c:39)
+==1927==    by 0x1094C9: SalvaAlunosBinario (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x109799: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927== 
+==1927== Invalid write of size 2
+==1927==    at 0x4852EB3: memmove (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1927==    by 0x48F2EAA: memcpy (string_fortified.h:29)
+==1927==    by 0x48F2EAA: _IO_file_xsgetn (fileops.c:1296)
+==1927==    by 0x48E549A: fread (iofread.c:38)
+==1927==    by 0x1095B0: CarregaAlunosBinario (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x1097CE: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==  Address 0x0 is not stack'd, malloc'd or (recently) free'd
+==1927== 
+==1927== 
+==1927== Process terminating with default action of signal 11 (SIGSEGV)
+==1927==  Access not within mapped region at address 0x0
+==1927==    at 0x4852EB3: memmove (in /usr/libexec/valgrind/vgpreload_memcheck-amd64-linux.so)
+==1927==    by 0x48F2EAA: memcpy (string_fortified.h:29)
+==1927==    by 0x48F2EAA: _IO_file_xsgetn (fileops.c:1296)
+==1927==    by 0x48E549A: fread (iofread.c:38)
+==1927==    by 0x1095B0: CarregaAlunosBinario (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==    by 0x1097CE: main (in /mnt/c/Users/mateu/Documentos/code/ufes/exercicios-gerais/09_arquivo_binario/Arq_Bin_01/Resultados/Mateus/aluno/prog)
+==1927==  If you believe this happened as a result of a stack
+==1927==  overflow in your program's main thread (unlikely but
+==1927==  possible), you can try to increase the size of the
+==1927==  main thread stack using the --main-stacksize= flag.
+==1927==  The main thread stack size used in this run was 8388608.
+==1927== 
+==1927== HEAP SUMMARY:
+==1927==     in use at exit: 12,800 bytes in 5 blocks
+==1927==   total heap usage: 13 allocs, 8 frees, 19,448 bytes allocated
+==1927== 
+==1927== LEAK SUMMARY:
+==1927==    definitely lost: 0 bytes in 0 blocks
+==1927==    indirectly lost: 0 bytes in 0 blocks
+==1927==      possibly lost: 0 bytes in 0 blocks
+==1927==    still reachable: 12,800 bytes in 5 blocks
+==1927==         suppressed: 0 bytes in 0 blocks
+==1927== Reachable blocks (those to which a pointer was found) are not shown.
+==1927== To see them, rerun with: --leak-check=full --show-leak-kinds=all
+==1927== 
+==1927== Use --track-origins=yes to see where uninitialised values come from
+==1927== For lists of detected and suppressed errors, rerun with: -s
+==1927== ERROR SUMMARY: 43 errors from 6 contexts (suppressed: 0 from 0)
